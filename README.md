@@ -102,7 +102,7 @@
 
   The Blog page displays articles and posts related to the website's content.
 
-  ![Blogpage](https://github.com/Shubhamsingh7248/QR-Insight/blob/3042961c9c2541898746c141b194070c10decf03/Front-End/images/developer/Venkatesh.jpg)
+  ![Blogpage](https://github.com/Shubhamsingh7248/QR-Insight/blob/b06b5a89ea11b5c2103e43bcab5779f12d379130/Front-End/images/blog-page.png)
 
   ## Contact Page
 
